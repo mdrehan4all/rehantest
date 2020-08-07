@@ -25,7 +25,7 @@ SECRET_KEY = '$a4-r2p6o-eac5(yb!3n)amzx!6u=i7^mem_4k*b2kb!@rx94m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['rehantest.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['rehantest.herokuapp.com']
 
 
 # Application definition
